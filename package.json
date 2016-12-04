@@ -1,0 +1,26 @@
+{
+  "name": "atomable-webpack-traceur-plugin",
+  "version": "0.0.15",
+  "description": "atomable webpack-traceur plugin for bundling before deployment",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomable/webpack-traceur-plugin.git"
+  },
+  "keywords": [],
+  "author": "atomable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomable/webpack-traceur-plugin/issues"
+  },
+  "homepage": "https://github.com/atomable/webpack-traceur-plugin#readme",
+  "dependencies": {
+    "atomable-runtime": "^1.0.0-alpha.6",
+    "chalk": "^1.1.3",
+    "eslint": "^3.10.2",
+    "js-yaml": "^3.7.0",
+    "traceur": "^0.0.111",
+    "traceur-loader": "^0.6.3",
+    "webpack": "^1.13.3"
+  }
+}
